@@ -1,0 +1,12 @@
+# Core
+numpy>=1.24
+matplotlib>=3.7
+tqdm>=4.66
+# Prefer Gymnasium (supports NumPy≥1.24); Gym is deprecated
+gymnasium==1.2.2
+# Atari support (namespace ALE/...), plus ROM importer
+ale-py==0.11.2
+# Vision & NN
+opencv-python>=4.9
+# Install torch separately from https://pytorch.org/get-started/locally/ for your CUDA/MPS/CPU
+# Example (CPU only): pip install torch --index-url https://download.pytorch.org/whl/cpu

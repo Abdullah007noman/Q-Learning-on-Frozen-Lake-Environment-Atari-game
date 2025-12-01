@@ -1,4 +1,4 @@
-# RL Assignment — FrozenLake (Q-Learning + Policy Iteration) & Atari DQN
+# Reinforcement Learning — FrozenLake (Q-Learning + Policy Iteration) & Atari DQN
 
 ## Structure
 ```
